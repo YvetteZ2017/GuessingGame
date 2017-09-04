@@ -4,7 +4,7 @@
   }
 
   body {
-        background-image: url(https://pixabay.com/en/photos/download/stones-2623280_1920.jpg?attachment);
+        background-image: src="stones-2623280_1920.jpg";
         height: 400px;
         background-position: center center;
   }
